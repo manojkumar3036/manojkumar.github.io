@@ -1,5 +1,5 @@
 # [MANOJ KUMAR]
-**Senior Java Engineer & DevSecOps Lead**  
+**Senior Java Engineer & AWS Lead**  
 📍 Bangalore, India | ✉️ [shah.manoj86@email.com] | 
 
 ---
