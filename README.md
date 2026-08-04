@@ -1,6 +1,6 @@
 # [MANOJ KUMAR]
 **Senior Java Engineer & DevSecOps Lead**  
-📍 Bangalore, India | ✉️ [shah.manoj86@email.com] | 🔗 [LinkedIn Profile] | 📄 [Download Resume (PDF)]
+📍 Bangalore, India | ✉️ [shah.manoj86@email.com] | 
 
 ---
 
