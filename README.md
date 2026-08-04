@@ -34,6 +34,6 @@ Senior Java Engineer with **10+ years of experience** building high-throughput, 
 ---
 
 ### 📜 Certifications
-* **AWS Certified Developer** – Associate Data Fundamentals
+* **AWS Certified Developer** – Associate Data 
 * **Oracle Certified Professional** – Java SE 11
-* **Microsoft Certified** – Azure Fundamentals
+* **Microsoft Certified** – Azure Fundamentals and Data Fundamentals
